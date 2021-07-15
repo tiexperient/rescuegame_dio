@@ -12,4 +12,3 @@ Página intuitiva do jogo do resgate aéreo, Divirtam-se!
 
   **Desenvolvido por: ** Célia Medeiros 💛
 
-
